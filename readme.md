@@ -1,4 +1,4 @@
-# ![CakePHP RealWorld Example App](logo.png)
+# ![CakePHP RealWorld App](logo.png)
 
 [![Build Status](https://img.shields.io/travis/gothinkster/cakephp-realworld-example-app/master.svg)](https://travis-ci.org/gothinkster/cakephp-realworld-example-app) [![GitHub stars](https://img.shields.io/github/stars/gothinkster/cakephp-realworld-example-app.svg)](https://github.com/gothinkster/cakephp-realworld-example-app/stargazers) [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)](https://raw.githubusercontent.com/gothinkster/cakephp-realworld-example-app/master/LICENSE.txt)
 
